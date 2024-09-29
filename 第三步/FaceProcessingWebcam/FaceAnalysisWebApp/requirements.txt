@@ -1,0 +1,7 @@
+opencv-python
+dlib
+imutils
+numpy
+gradio==3.39.0
+mediapipe==0.10.10
+gradio-client==1.1.1
